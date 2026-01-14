@@ -115,3 +115,4 @@ Bacteria_Dataset/
 
 # Model weights (large files)
 *.pth
+!vit_dibas_v2.pth

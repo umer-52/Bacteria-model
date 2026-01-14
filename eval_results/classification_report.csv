@@ -1,0 +1,37 @@
+,precision,recall,f1-score,support
+Acinetobacter.baumanii,1.0,1.0,1.0,20.0
+Actinomyces.israeli,1.0,1.0,1.0,23.0
+Bacteroides.fragilis,1.0,0.8695652173913043,0.9302325581395349,23.0
+Bifidobacterium.spp,0.0,0.0,0.0,0.0
+Candida.albicans,0.0,0.0,0.0,0.0
+Clostridium.perfringens,0.0,0.0,0.0,0.0
+Enterococcus.faecalis,0.0,0.0,0.0,0.0
+Enterococcus.faecium,0.0,0.0,0.0,0.0
+Escherichia.coli,0.0,0.0,0.0,0.0
+Fusobacterium.spp,0.0,0.0,0.0,0.0
+Lactobacillus.casei,0.0,0.0,0.0,0.0
+Lactobacillus.crispatus,0.0,0.0,0.0,0.0
+Lactobacillus.delbrueckii,0.0,0.0,0.0,0.0
+Lactobacillus.gasseri,0.0,0.0,0.0,0.0
+Lactobacillus.jehnsenii,0.0,0.0,0.0,0.0
+Lactobacillus.johnsonii,0.0,0.0,0.0,0.0
+Lactobacillus.paracasei,0.0,0.0,0.0,0.0
+Lactobacillus.plantarum,0.0,0.0,0.0,0.0
+Lactobacillus.reuteri,0.0,0.0,0.0,0.0
+Lactobacillus.rhamnosus,0.0,0.0,0.0,0.0
+Lactobacillus.salivarius,0.0,0.0,0.0,0.0
+Listeria.monocytogenes,0.0,0.0,0.0,0.0
+Micrococcus.spp,0.0,0.0,0.0,0.0
+Neisseria.gonorrhoeae,0.0,0.0,0.0,0.0
+Porphyromonas.gingivalis,0.0,0.0,0.0,0.0
+Propionibacterium.acnes,0.0,0.0,0.0,0.0
+Proteus.spp,0.0,0.0,0.0,0.0
+Pseudomonas.aeruginosa,0.0,0.0,0.0,0.0
+Staphylococcus.aureus,0.0,0.0,0.0,0.0
+Staphylococcus.epidermidis,0.0,0.0,0.0,0.0
+Staphylococcus.saprophyticus,0.0,0.0,0.0,0.0
+Streptococcus.agalactiae,0.0,0.0,0.0,0.0
+Veionella.spp,0.0,0.0,0.0,0.0
+accuracy,0.9545454545454546,0.9545454545454546,0.9545454545454546,0.9545454545454546
+macro avg,0.09090909090909091,0.08695652173913043,0.08879492600422832,66.0
+weighted avg,1.0,0.9545454545454546,0.9756871035940803,66.0
